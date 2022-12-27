@@ -1,0 +1,15 @@
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\bin\Debug\netcoreapp3.1\BuisnessLogic.deps.json
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\bin\Debug\netcoreapp3.1\BuisnessLogic.dll
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\bin\Debug\netcoreapp3.1\BuisnessLogic.pdb
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\obj\Debug\netcoreapp3.1\BuisnessLogic.csproj.AssemblyReference.cache
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\obj\Debug\netcoreapp3.1\BuisnessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\obj\Debug\netcoreapp3.1\BuisnessLogic.AssemblyInfoInputs.cache
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\obj\Debug\netcoreapp3.1\BuisnessLogic.AssemblyInfo.cs
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\obj\Debug\netcoreapp3.1\BuisnessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\obj\Debug\netcoreapp3.1\BuisnessLogic.csproj.CopyComplete
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\obj\Debug\netcoreapp3.1\BuisnessLogic.dll
+C:\Users\Logan\source\repos\EnterpriseHome\BuisnessLogic\obj\Debug\netcoreapp3.1\BuisnessLogic.pdb
